@@ -1,6 +1,6 @@
 🩺 DiabetesInsight-ML 
 
-🔍 A machine learning project that predicts diabetes risk using real-world medical data.
+🔍 A machine learning project that predicts diabetes risk using real-world medical data
 
 🚀 Overview
 
